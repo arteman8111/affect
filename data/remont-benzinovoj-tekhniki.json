@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Снегоуборщики",
+        "description": "Ремонт снегоуборщиков",
+        "link": "remont-snegouborshchikov"
+    },
+    {
+        "name": "Газонокосилки",
+        "description": "Ремонт газонокосилок",
+        "link": "remont-gazonokosilok"
+    },
+    {
+        "name": "Генераторы",
+        "description": "Ремонт генераторов",
+        "link": "remont-generatorov"
+    },
+    {
+        "name": "Бензопилы",
+        "description": "Ремонт бензопил",
+        "link": "remont-benzopil"
+    },
+    {
+        "name": "Скутеры",
+        "description": "Ремонт скутеров",
+        "link": "remont-scooterov"
+    },
+    {
+        "name": "Мотоциклы",
+        "description": "Ремонт мотоциклов",
+        "link": "remont-motociklov"
+    },
+    {
+        "name": "Мини-тракторы",
+        "description": "Ремонт мини-тракторов",
+        "link": "remont-mini-traktorov"
+    },
+    {
+        "name": "Лодочные моторы",
+        "description": "Ремонт лодочных моторов",
+        "link": "remont-lodochnyh-motorov"
+    },
+    {
+        "name": "Квадроциклы",
+        "description": "Ремонт квадроциклов",
+        "link": "remont-kvadrociklov"
+    }
+]

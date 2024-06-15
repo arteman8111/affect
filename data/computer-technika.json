@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Компьютеры",
+        "description": "Ремонт компьютеров",
+        "link": "remont-kompyuterov"
+    },
+    {
+        "name": "Телевизоры",
+        "description": "Ремонт телевизоров",
+        "link": "remont-televizorov"
+    },
+    {
+        "name": "Моноблоки",
+        "description": "Ремонт моноблоков",
+        "link": "remont-monoblokov"
+    },
+    {
+        "name": "Apple",
+        "description": "Ремонт APPLE",
+        "link": "remont-apple"
+    },
+    {
+        "name": "Ноутбуки",
+        "description": "Ремонт ноутбков",
+        "link": "remont-noutbukov"
+    },
+    {
+        "name": "Принтеры",
+        "description": "Ремонт принтеры",
+        "link": "remont-printerov"
+    }
+]

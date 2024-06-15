@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Кофемашины",
+        "description": "Ремонт кофемашин",
+        "link": "remont-kofemashin"
+    },
+    {
+        "name": "Стиральные машины",
+        "description": "Ремонт стиральных машин",
+        "link": "remont-stiralnyh-mashin"
+    },
+    {
+        "name": "Варочные панели",
+        "description": "Ремонт варочных панелей",
+        "link": "remont-varochnyh-panelej"
+    },
+    {
+        "name": "Кондиционеры",
+        "description": "Ремонт кондиционеров",
+        "link": "remont-kondicionerov"
+    },
+    {
+        "name": "Посудомоечные машины",
+        "description": "Ремонт посудомоечных машин",
+        "link": "remont-posudomoechnyh-mashin"
+    },
+    {
+        "name": "Холодильники",
+        "description": "Ремонт холодильников",
+        "link": "remont-holodilnikov"
+    }
+]
